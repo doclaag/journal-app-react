@@ -1,6 +1,7 @@
+import { Typography } from '@mui/material';
 
 export const RegisterPage = () => {
     return (
-        <div>Register</div>
+        <Typography variant={'h1'}>Register</Typography>
     );
 };
